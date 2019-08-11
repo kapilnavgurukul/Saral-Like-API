@@ -1,0 +1,79 @@
+[
+  {
+    "name": "kapil",
+    "description": "this is a discription",
+    "id": 1,
+    "exercises": [
+      {
+        "id": 1,
+        "name": "learn html",
+        "course_id": "1",
+        "content": "isme ham html sikhenge",
+        "hint": "this is a hint",
+        "submission": [
+          {
+            "id": 1,
+            "course_id": "1",
+            "exercise_id": "1",
+            "name": "kapil",
+            "content": "yah aapli submission ka content hai"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "learn java put",
+        "course_id": "1",
+        "content": "isme ham java sikhenge put",
+        "hint": "this is a hint",
+        "submission": [
+          {
+            "id": 1,
+            "course_id": "1",
+            "exercise_id": "2",
+            "name": "kapil",
+            "content": "yah aapli submission ka content hai"
+          },
+          {
+            "id": 2,
+            "course_id": "1",
+            "exercise_id": "2",
+            "name": "kapil",
+            "content": "yah aapli submission ka content hai"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "fatas fff",
+    "description": "this is fatas information fff",
+    "id": 2,
+    "exercises": [
+      {
+        "id": 1,
+        "name": "kapil",
+        "course_id": "2",
+        "content": "yah aapli submission ka content hai",
+        "hint": "this is a hint"
+      }
+    ]
+  },
+  {
+    "name": "kapil",
+    "id": 3
+  },
+  {
+    "name": "kapil",
+    "id": 4
+  },
+  {
+    "name": "pratik",
+    "id": 5
+  },
+  {
+    "name": "pratik kaqpiliii",
+    "description": "pratik lala hai chutiya",
+    "id": 6
+  }
+]
